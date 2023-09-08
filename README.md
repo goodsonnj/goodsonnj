@@ -1,16 +1,4 @@
 ### Hi there 👋
-
-<!--
-**goodsonnj/goodsonnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python and NLP in CS154
-- 🌱 I’m currently learning ... how to code!
-- 👯 I’m looking to collaborate on ... anything and everything that will help me learn about coding and CS.
-- 🤔 I’m looking for help with ... coding.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I have a 3 year old chocolate labrador named Bruno at home!
--->
+My name is Nic Goodson, but my full name is Nicholas Goodson. I spell it "Nic" and not "Nick" because of that.
+Currently I'm working on CS 154, which is a bit daunting at the moment, I think largely due to technical errors and just getting used to all of the new software.
+When I'm not studying, I like to do my hobbies. At home, I like to skateboard, surf, do ceramics, cook, challenge myself with foreign languages, play soccer and basketball, and ski. Although, I'm not exactly sure how the skateboarding will work out in Maine (it won't).
